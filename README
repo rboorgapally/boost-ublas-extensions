@@ -1,8 +1,8 @@
 This extension of Boost uBLAS (u-Basic Linear Algebra Subprograms) library is directed towards those in need of a library for developing signal processing or data analysis applications that makes heavy use of matrix and vector manipulation. The primary design goals are:
 
-• Provide MATLAB like interface to uBLAS.
-•	Adding richer interface but staying close to the design style of Boost uBLAS.
-•	Non intrusive extension of uBLAS while preserving efficiency and maximizing code reuse.
-•	Aid faster porting of MATLAB code to C++.
+- Provide MATLAB like interface to uBLAS.
+- Adding richer interface but staying close to the design style of Boost uBLAS.
+- Non intrusive extension of uBLAS while preserving efficiency and maximizing code reuse.
+- Aid faster porting of MATLAB code to C++.
 
 Please download the file 'Documentation and User Guide.pdf' from the repository for further information.
